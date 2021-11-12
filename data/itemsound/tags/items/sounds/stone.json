@@ -291,6 +291,7 @@
         "minecraft:stone_button",
         "minecraft:structure_void",
         "minecraft:string",
-        "minecraft:tripwire_hook"
+        "minecraft:tripwire_hook",
+        "minecraft:petrified_oak_slab"
     ]
 }
