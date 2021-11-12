@@ -12,3 +12,6 @@ Use `/function itemsound:playsound_offhand` to get the sound from the offhand.
 
 ### Added:
 - Detection of the offhand item
+
+### Changes:
+- New pack logo
