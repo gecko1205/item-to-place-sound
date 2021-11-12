@@ -3,4 +3,4 @@
 
 Use `/function itemsound:playsound` to get the sound.
 
-[DOWNLOAD](https://github.com/gecko1205/item-to-place-sound/archive/refs/heads/main.zip)
+[Click here to download](https://github.com/gecko1205/item-to-place-sound/archive/refs/heads/main.zip)
